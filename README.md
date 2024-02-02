@@ -10,11 +10,16 @@ Algovista is designed with education in mind. Whether you're a student, educator
 
 # 3. Algorithm Selection:
 Choose from a curated list of algorithms, including:
-# Linear Search: Explore the simplicity of linear search algorithms.
-# Binary Search: Delve into the efficiency of binary search techniques.
-# Bubble Sort: Witness the step-by-step process of bubble sort in action.
-# Insertion Sort: Understand the intricacies of insertion sort through visualizations.
-# Selection Sort: Experience the selection sort algorithm through dynamic displays.
+# Linear Search:
+  Explore the simplicity of linear search algorithms.
+# Binary Search: 
+  Delve into the efficiency of binary search techniques.
+# Bubble Sort: 
+  Witness the step-by-step process of bubble sort in action.
+# Insertion Sort: 
+  Understand the intricacies of insertion sort through visualizations.
+# Selection Sort:  
+  Experience the selection sort algorithm through dynamic displays.
 
 # 4. Code Snippets:
 Each algorithm comes with accompanying code snippets in popular programming languages. Enhance your understanding by examining the code behind the visualizations.
